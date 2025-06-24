@@ -1,0 +1,7 @@
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\MCALAB-1\Downloads\Aspn\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
