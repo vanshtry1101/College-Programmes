@@ -5,6 +5,13 @@
 '''python prog1.py vansh xyz abc in this statement here python will consider prog1.py as [0] argument and after that user input will consider as [1]'''
 
 import sys
-# name=sys.argv[]
-# print("\nvalue=",name);
+# name=sys.argv[1]
+# print("\nvalue=",name)
 
+
+'''print all command line inputs'''
+print("Number Of Arguments:=",len(sys.argv))
+print("\nThe Command Line Argument are:=")
+
+for i in range(0,len(sys.argv)):
+    print(sys.argv[i])
