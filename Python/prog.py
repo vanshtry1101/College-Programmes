@@ -1,0 +1,10 @@
+txt="vansh1101"
+print(txt)
+print(len(txt))
+print(min(txt))
+print(max(txt))
+print(txt.index("v"))
+print(txt.count('v'))
+print(txt.isalnum())
+print(txt.lstrip('anv'))
+print(txt.rstrip('101'))
