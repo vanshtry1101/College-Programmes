@@ -1,6 +1,6 @@
 '''wap prog to create dictionary at run time'''
 
-d={}
+# d={}
 
 # n=int(input("How Many Keys You Want Enter="))
 
@@ -11,10 +11,14 @@ d={}
 # print(d)    
 
 
-n=int(input("How Many Player You Want Enter="))
+'''create a dictionary that accept crickect player name and score'''
+
+a={}
+
+n=int(input("How Many Player You Want To Enter="))
 
 for i in range(n):
     key=input("Enter Name=")
     val=input("Enter Score=")
-    d[key]=val
-print(d)  
+    a[key]=val
+print(a)  
